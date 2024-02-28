@@ -3,7 +3,15 @@
 
 ## run
 ```
-perl code.pl
+perl trans.pl
+```
+## files
+```
+# input file : hard coded now.. @W@
+original.txt # ori2.txt?  
+
+# output file name :
+script_output.txt 
 ```
 
 ## note
